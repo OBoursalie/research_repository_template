@@ -1,6 +1,6 @@
 # Thesis Directory
 
-This directory has the following files:
+You will add the following files to this directory:
 - main.tex file (lastname_thesis_main.tex) 
 - bib file (lastname_thesis_bibliography.bib) 
 - All supplied latex files necessary to compile your paper (e.g., style files) 
