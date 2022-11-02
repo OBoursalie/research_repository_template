@@ -1,6 +1,6 @@
 # Comprehensive Directory
 
-This directory has the following files:
+You will add the following files to this directory:
 - main.tex file (lastname_comprehensive_main.tex) 
 - bib file (lastname_comprehensive_bibliography.bib) 
 - All necessary latex files to compile your paper (e.g., style files) 
