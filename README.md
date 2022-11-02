@@ -1,6 +1,6 @@
 # TAILab Research Repository
 
-A template repository for reporting research conducted in the TaiLab. The repository contains:
+A template repository for reporting research conducted in the TAILab. The repository contains:
 
 - comprehensive: Files for the comprehensive exam (.tex)
 - literature_review: Files for the literature review (.tex)
