@@ -13,4 +13,4 @@ Sub-directories:
 - feedback: Dr. Samavi's feedback (usually in .pdf)
 - figures: figures used in paper (.pdf or .tiff)
 - presentation: presentation files (.ppt)
-- published: final paper pdf (lastname_conferenceacronymn_published.pdf)
+- published: final paper pdf (lastname_thesis_published.pdf)
