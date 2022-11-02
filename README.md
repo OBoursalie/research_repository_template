@@ -1,4 +1,4 @@
-# TaiLab Research Repository
+# TAILab Research Repository
 
 A template repository for reporting research conducted in the TaiLab. The repository contains:
 
