@@ -1,6 +1,6 @@
 # Literature Review Directory
 
-This directory has the following files:
+You will add the following files to this directory:
 - main.tex file (lastname_lit_review_main.tex) 
 - bib file (lastname_lit_review_bibliography.bib) 
 - All necessary latex files to compile your lit review (e.g., style files) 
