@@ -1,8 +1,8 @@
-# Thesis Directory
+# Thesis Proposal Directory
 
 You will add the following files to this directory:
-- main.tex file (lastname_thesis_main.tex) 
-- bib file (lastname_thesis_bibliography.bib) 
+- main.tex file (lastname_thesis_proposal_main.tex) 
+- bib file (lastname_thesis_proposal_bibliography.bib) 
 - All supplied latex files necessary to compile your paper (e.g., style files) 
 - A .zip file of the thesis format (please check TMU for most recent files, TaiLab Google Drive may also have them)
 
@@ -13,4 +13,4 @@ Sub-directories:
 - feedback: Dr. Samavi's feedback (usually in .pdf)
 - figures: figures used in paper (.pdf or .tiff)
 - presentation: presentation files (.ppt)
-- published: final paper pdf (lastname_thesis_published.pdf)
+- published: final paper pdf (lastname_thesis_proposal_published.pdf)
