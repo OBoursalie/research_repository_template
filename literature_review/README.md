@@ -2,7 +2,7 @@
 
 This directory has the following files:
 - main.tex file (lastname_lit_review_main.tex) 
-- bib file (lastname_lite_review_bibliography.bib) 
+- bib file (lastname_lit_review_bibliography.bib) 
 - All necessary latex files to compile your lit review (e.g., style files) 
 - A .zip file of the original format downloaded from the TaiLab GoogleDrive
 
