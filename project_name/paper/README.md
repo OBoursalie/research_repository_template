@@ -1,6 +1,6 @@
 # Paper Directory
 
-This directory has the following files:
+You will add the following files to this directory:
 - main.tex file (lastname_conference_acronymn_main.tex) 
 - bib file (lastname_ conference_acronymn_bibliography.bib) 
 - All conference/journal supplied latex files necessary to compile your paper (e.g., style files) 
